@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ENCORE AGAIN",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T10:30:39.286002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ENCORE AGAIN",
+      "artist": "UVERworld feat. SHUNTO",
+      "has_synced": true,
+      "path": "select/01_ENCORE_AGAIN_UVERworld_feat._SHUNTO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ENCORE AGAIN",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/02_ENCORE_AGAIN_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ENCORE AGAIN (feat. SHUNTO)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_ENCORE_AGAIN_(feat._SHUNTO)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ENCORE AGAIN",
+      "artist": "UVERworld feat. SHUNTO from BE:FIRST",
+      "has_synced": true,
+      "path": "select/04_ENCORE_AGAIN_UVERworld_feat._SHUNTO_from_BE_FIRST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ENCORE AGAIN",
+      "artist": "UVERworld, SHUNTO",
+      "has_synced": false,
+      "path": "select/pl_01_ENCORE_AGAIN_UVERworld,_SHUNTO.txt"
+    }
+  ]
+}
